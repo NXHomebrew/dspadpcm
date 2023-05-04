@@ -11,3 +11,6 @@ Since this version of dspadpcm is built for Revolution, you will need a director
 
 # Resources
 The code for dspadpcm contains contextual information for what happens with it. However, there is also an online guide for this as well. See here for official documentation: http://web.archive.org/web/20230421013408/http://hcs64.com/files/DSPADPCM.us.pdf
+
+# Copyright Note
+All code here is copyrighted and owned by Nintendo Co. Ltd. I do not claim to own this source code. This code was partially worked on by various people at Nintendo, but according to Nintendo's CVS, was first created by Shiki Okasaka. He does not work at Nintendo anymore, so please do not ask him about the code in this repository. Leave it to your own time to figure this stuff out!
